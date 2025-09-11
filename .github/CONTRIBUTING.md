@@ -130,4 +130,4 @@ By contributing to Aperture Viewer, you agree that your contributions will be li
 ---
 
 > [!NOTE]
-> For all other forms of potential contribution or inquiry, please refer to our canonical **[Ways to Contribute](Ways-to-Contribute)** and **[Contact & Support Policy](Contact-&-Support)** documents.
+> For all other forms of potential contribution or inquiry, please refer to our **[Contact & Support Policy](SUPPORT.md)**.
