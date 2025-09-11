@@ -1,31 +1,42 @@
 # Aperture Viewer Project Governance
 
-## Our Philosophy: The Studio Model
+## Our Guiding Philosophy: The Studio Model
 
-The Aperture Viewer Project operates on a "Studio Model," not a consensus-driven or community-led model. Our development is internally directed, guided by a long-range, mission-oriented roadmap focused on ambitious research and development goals.
+The Aperture Viewer Project operates on a **Studio Model**. This is a deliberate choice to support a long-range, mission-oriented roadmap focused on ambitious research and development goals.
 
-This model allows for high-velocity, focused engineering to solve complex problems, shielded from the diversions of public debate. While we value our community and users, the strategic direction of the project is not determined by public vote or feature request volume.
+Our development is vision-led and internally directed, similar to a creative or R&D studio. This model allows for high-velocity, focused engineering to solve complex problems. While we value our community and users, the strategic direction of the project is not determined by public vote or consensus.
 
 ## Project Leadership
 
-The project is managed by the "Aperture Development Team" and led by the **Director of Development**. The Director is the final arbiter on all strategic, technical, and design decisions. This centralized leadership ensures the project remains true to its core vision and long-term objectives.
+The project is led by the **Director of Development**, who guides the mission and is the final arbiter on all strategic, technical, and design decisions. This centralized leadership ensures the project remains true to its core vision.
 
-## Decision Making
+All official communication originates from institutional roles.
 
-All major development priorities are mission-driven and are part of a multi-stage, predefined roadmap. Decisions on features, architecture, and release timing are made internally by the development team in service of these strategic goals.
+## Our Mission & Vision
 
-## Contribution Process
+*   **Mission:** To empower virtual photographers and videomakers by providing the most advanced, intuitive, and powerful open-source viewer, focused on delivering unparalleled visual fidelity, artistic control, and a streamlined creative workflow.
+*   **Vision:** To be the indispensable, benchmark viewer for visual creators in virtual worlds, continuously redefining the standards of graphical excellence, performance, and artistic capability, making Aperture Viewer the premier platform where "Nothing Is Not Possible."
 
-Aperture Viewer is not a contribution-driven project, and we are not actively seeking external pull requests for new features. Our primary focus is on executing our internal R&D roadmap.
+## Project Status & Roadmap
 
-The GitHub issue tracker serves as our public-facing bug and regression tracking system. We welcome well-documented bug reports from the community, as they provide valuable data. However, the submission of a bug report or feature request does not guarantee its inclusion in our work queue. Priority is determined by the project leadership based on its alignment with our current mission objectives.
+Development priorities are mission-driven and follow a long-term, internally-directed roadmap. Major features and capabilities will be announced as they are completed and become available in a public release.
 
-For more details on submitting bug reports, please see our `CONTRIBUTING.md` file.
+## Community Interaction & Contribution
+
+While our roadmap is internally directed, we value our community. Interaction with the project is governed by the following protocols:
+
+*   **Primary Information Hub:** For official downloads, announcements, and project information, please visit our website: **[apertureviewer.com](https://apertureviewer.com)**
+*   **Bug Reports:** Well-documented bug reports are the primary way for the community to contribute. They should be submitted via the **GitHub Issues** tracker. Please note that submission does not guarantee a fix, as all work is prioritized against our current mission objectives.
+*   **Pull Requests:** We are **not** a contribution-driven project and are not actively seeking external pull requests for new features. The development branch is fast-moving, and external contributions are difficult to integrate with our internal R&D roadmap.
+*   **Communication Channels:** Our public communication channels are primarily one-way.
+    *   **Discord Server:** Serves as an announcement channel for releases and important updates. It is not a live support or chat forum.
+    *   **Security Vulnerabilities:** Must be reported privately as per our **[Security Policy](SECURITY.md)**.
+
+We do **not** offer live interactive support or guaranteed response times. Our public channels are designed to be self-serve, supported by our documentation on the project Wiki.
 
 ## Code of Conduct
 
-All project spaces and participants are governed by our **[Code of Conduct](CODE_OF_CONDUCT.md)**. While our governance model is internal, our standards for respectful and kind communication are universal and strictly enforced.
+All project spaces and participants are governed by our **[Code of Conduct](CODE_OF_CONDUCT.md)**. While our governance model is centralized, our standards for respectful and kind communication are universal and strictly enforced.
 
-## Conclusion
-
-This governance model is intentionally designed to support a long-term, focused R&D mission. We thank you for your understanding and your interest in the Aperture Viewer Project.
+---
+*This governance document reflects our stable, long-term operational model. Major changes, if any, will be announced publicly.*
